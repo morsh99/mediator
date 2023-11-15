@@ -1,0 +1,15 @@
+C:\Users\sharifi\ASP.NET\mordad\mediator-2\mediator-2\bin\Debug\net7.0\mediator-2.exe
+C:\Users\sharifi\ASP.NET\mordad\mediator-2\mediator-2\bin\Debug\net7.0\mediator-2.deps.json
+C:\Users\sharifi\ASP.NET\mordad\mediator-2\mediator-2\bin\Debug\net7.0\mediator-2.runtimeconfig.json
+C:\Users\sharifi\ASP.NET\mordad\mediator-2\mediator-2\bin\Debug\net7.0\mediator-2.dll
+C:\Users\sharifi\ASP.NET\mordad\mediator-2\mediator-2\bin\Debug\net7.0\mediator-2.pdb
+C:\Users\sharifi\ASP.NET\mordad\mediator-2\mediator-2\obj\Debug\net7.0\mediator-2.csproj.AssemblyReference.cache
+C:\Users\sharifi\ASP.NET\mordad\mediator-2\mediator-2\obj\Debug\net7.0\mediator-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharifi\ASP.NET\mordad\mediator-2\mediator-2\obj\Debug\net7.0\mediator-2.AssemblyInfoInputs.cache
+C:\Users\sharifi\ASP.NET\mordad\mediator-2\mediator-2\obj\Debug\net7.0\mediator-2.AssemblyInfo.cs
+C:\Users\sharifi\ASP.NET\mordad\mediator-2\mediator-2\obj\Debug\net7.0\mediator-2.csproj.CoreCompileInputs.cache
+C:\Users\sharifi\ASP.NET\mordad\mediator-2\mediator-2\obj\Debug\net7.0\mediator-2.dll
+C:\Users\sharifi\ASP.NET\mordad\mediator-2\mediator-2\obj\Debug\net7.0\refint\mediator-2.dll
+C:\Users\sharifi\ASP.NET\mordad\mediator-2\mediator-2\obj\Debug\net7.0\mediator-2.pdb
+C:\Users\sharifi\ASP.NET\mordad\mediator-2\mediator-2\obj\Debug\net7.0\mediator-2.genruntimeconfig.cache
+C:\Users\sharifi\ASP.NET\mordad\mediator-2\mediator-2\obj\Debug\net7.0\ref\mediator-2.dll
